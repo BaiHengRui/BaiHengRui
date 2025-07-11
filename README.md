@@ -8,6 +8,7 @@
 - 语言：[JavaScript, C/C++, HTML]
 - 工具：[Git, VScode]
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaiHengRui&show_icons=true)
 
 感谢来访！😊
 
