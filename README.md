@@ -2,7 +2,7 @@
 ## HI 欢迎来到我的Github主页
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaiHengRui&theme=transparent" alt="Profile Details" style="max-width: 100%; width: 685px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaiHengRui" alt="Profile Details" style="max-width: 100%; width: 685px;">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
