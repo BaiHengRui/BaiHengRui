@@ -1,5 +1,14 @@
 
-[![](https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## HI 欢迎来到我的Github主页
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaiHengRui&theme=transparent" alt="Profile Details" style="max-width: 100%; width: 685px;">
+</div>
+
+<div align="center" style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaiHengRui&theme=transparent&exclude=html,Gerber%20Image" alt="Repos per Language" style="flex: 1; max-width: 50%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaiHengRui&theme=transparent&utcOffset=+8" alt="Commits Time" style="flex: 1; max-width: 50%;">
+</div>
+<div align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=BaiHengRui&theme=xcode" /> 
+</div>
