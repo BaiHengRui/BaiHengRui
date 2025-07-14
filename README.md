@@ -1,7 +1,9 @@
 
 ## HI 欢迎来到我的Github主页
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaiHengRui)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaiHengRui&theme=transparent" alt="Profile Details" style="max-width: 100%; width: 685px;">
+</div>
 
 <div align="center" style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaiHengRui&theme=transparent&exclude=html,Gerber%20Image" alt="Repos per Language" style="flex: 1; max-width: 50%;">
