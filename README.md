@@ -16,11 +16,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaiHengRui&theme=nord_bright&utcOffset=+8" alt="Commits Time" style="flex: 1; max-width: 50%;">
 </div>
 
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/output/github-contribution-grid-snake.svg">
-    </picture>
-</p>
-
+![](https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/main/assets/github-contribution-grid-snake.svg)
