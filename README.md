@@ -16,7 +16,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaiHengRui&theme=nord_bright&utcOffset=+8" alt="Commits Time" style="flex: 1; max-width: 50%;">
 </div>
 
-<!-- <div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=BaiHengRui&theme=xcode" /> 
-</div>
- -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BaiHengRui/BaiHengRui/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BaiHengRui/BaiHengRui/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/BaiHengRui/BaiHengRui/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
