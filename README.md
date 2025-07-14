@@ -15,9 +15,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaiHengRui&theme=nord_bright&exclude=html,Gerber%20Image" alt="Repos per Language" style="flex: 1; max-width: 50%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaiHengRui&theme=nord_bright&utcOffset=+8" alt="Commits Time" style="flex: 1; max-width: 50%;">
 </div>
-
-<picture style="max-width: 100%; width: 685px;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BaiHengRui/BaiHengRui/output/github-contribution-grid-snake.svg">
-</picture>
