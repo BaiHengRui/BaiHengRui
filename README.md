@@ -2,11 +2,13 @@
 ## HI 欢迎来到我的Github主页
 ### 使用的工具:
 
+<center>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+</center>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaiHengRui&theme=react" alt="Profile Details" style="max-width: 100%; width: 685px;">
 </div>
