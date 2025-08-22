@@ -17,8 +17,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaiHengRui&theme=react&height=300&area=true" width="100%" alt="Profile Details">
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaiHengRui&theme=nord_bright&exclude=html,Gerber%20Image" width="45%" alt="Repos per Language">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaiHengRui&theme=nord_bright&exclude=html,Gerber%20Image" width="45%" alt="Repos per Language" style="height: 165px; object-fit: cover;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaiHengRui&theme=nord_bright&utcOffset=+8" width="45%" alt="Commits Time">
 </div>
 
