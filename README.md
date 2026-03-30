@@ -16,7 +16,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-### 目前嵌入式开发在读大学生🏫
+### 不定时更新
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaiHengRui&theme=react&height=300&area=true" width="100%" alt="Profile Details">
 
 <div style="display: flex; justify-content: center; gap: 10px;">
